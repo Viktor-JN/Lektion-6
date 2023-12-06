@@ -7,8 +7,6 @@ header{
     background: linear-gradient(45deg, rgb(255, 0, 149), rgb(124, 1, 124));
 }
 
-
-
 .topheader{
     display: flex;
     justify-content: space-between;
